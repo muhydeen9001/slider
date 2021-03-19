@@ -1,0 +1,18 @@
+.slider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider img{
+    width: 800px;
+}
+
+
+.slider button{
+    background-color: green;
+    border: 1px solid yellow;
+    color:white;
+    display: inline-block;
+    height: 50px;
+}
